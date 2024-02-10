@@ -1,0 +1,17 @@
+// git and powershell commands  & tips
+
+git --config global user.name
+
+git --config global user.email
+
+working diractory => staging area => git repository
+
+git init 
+
+git add
+
+git commit -m 'your comment'
+
+git log
+
+git log --oneline
