@@ -15,4 +15,4 @@ git log
 
 git log --oneline
 
-git checkout // switch between different versions
+git checkout 'id' // switch between different versions
