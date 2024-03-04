@@ -18,3 +18,9 @@ git log --oneline
 git checkout 'id' // switch between different versions
 
 git add .
+
+git clone 'repo address'
+
+//connect local repo to remote repo 
+
+git remote add origin 'your remote repo link'
