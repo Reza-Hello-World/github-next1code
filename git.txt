@@ -32,3 +32,16 @@ git push -u origin master
 // get project last update from repo
 
 git pull origin master
+
+// branch lists
+
+git branch
+
+// create new branch 
+
+git branch 'new branch name'
+
+// switch in branches
+
+git switch 'branch name'
+
