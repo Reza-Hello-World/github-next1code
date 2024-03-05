@@ -29,4 +29,6 @@ git remote add origin 'your remote repo link'
 
 git push -u origin master
 
-// 
+// get project last update from repo
+
+git pull origin master
