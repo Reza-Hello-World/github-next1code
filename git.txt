@@ -49,3 +49,5 @@ git switch 'branch name'
 
 git merge 'branch name'
 
+// merge conflict; current changes, Incomming changes
+
